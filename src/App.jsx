@@ -4,7 +4,7 @@ import ChatRoom from './components/ChatRoom'
 
 const App = () => {
   return (
-    <div className='min-h-screen flex flex-col md:flex-row
+    <div className='min-h-screen flex flex-col md:flex-row mx-auto
     justify-center items-center space-y-10 md:space-y-0 md:space-x-10 
     bg-gray-200'>
 
