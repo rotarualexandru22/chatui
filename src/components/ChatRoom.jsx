@@ -3,7 +3,7 @@ import React from 'react'
 const ChatRoom = () => {
   return (
     <div className='flex flex-col bg-white w-[410px] rounded-xl
-    shadow-xl h-[735px]'>
+    shadow-xl h-[735px] mb-2 md:mb-0'>
         
         {/* Top Section*/}
         <section className='flex justify-between p-3 mb-5 h-[70px] shadow-lg'>

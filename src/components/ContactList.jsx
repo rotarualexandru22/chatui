@@ -5,7 +5,7 @@ const ContactList = () => {
     <div>
 
       {/* First chat card */}
-      <div className="flex flex-col bg-white w-[410px] h-[735px] rounded-xl shadow-xl">
+      <div className="flex flex-col bg-white w-[410px] h-[735px] rounded-xl shadow-xl mt-2">
 
         {/* Top */}
         <section id='top1' className='flex justify-between items-center p-3 mb-5 shadow-lg h-[70px]'>
